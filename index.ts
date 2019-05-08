@@ -1,0 +1,4 @@
+class Printer
+{
+    private printer : ()
+}
